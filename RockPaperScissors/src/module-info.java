@@ -1,0 +1,3 @@
+module RockPaperScissors {
+	exports RockPaperScissors;
+}

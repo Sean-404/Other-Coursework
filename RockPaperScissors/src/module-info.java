@@ -1,3 +1,0 @@
-module RockPaperScissors {
-	exports RockPaperScissors;
-}
